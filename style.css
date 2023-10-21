@@ -230,4 +230,10 @@ text-transform: uppercase;
     aspect-ratio: 1 / 1;
     object-fit: cover;
 }
+@media only screen and (max-width: 600px) {
+.parameter p:first-of-type {
+        font-size: 0.9rem;
+    
+    }
+}
 /*Rizwan*/
