@@ -4,7 +4,7 @@ Welcome to Weather-App-Project, It is a feature-rich weather app created with HT
 ## Features
 - Current Location Weather: Users can access weather information for their current location. The app can use the device's location services to automatically detect where the user is and provide them with the local weather conditions.
 - City Search: Users can manually search for the weather conditions in a specific city by entering the city's name. This feature allows users to check the weather for any location they are interested in.
-- Intuitive UI: The user-friendly interface ensures a smooth and straightforward password generation process, making it accessible to users of all levels of technical expertise.
+- Intuitive UI: The user-friendly interface ensures a smooth and straightforward experience of process. Making it accessible to users of all levels of technical expertise.
 
  ## How to Use
 - Open the application in a web browser.
