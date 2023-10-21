@@ -24,7 +24,7 @@ Welcome to Weather-App-Project, It is a feature-rich weather app created with HT
 There is no specific installation required for this project. You can simply clone the repository to your local machine using the following command:
 
 ```bash
- git clone https://github.com/rizwan0713/Weather-App-.git
+ git clone https://github.com/rizwan0713/Weather-App.git
 ```
 
 ## Contributing
